@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+ul{
+    padding: 30px;
+    color: green;
+    font-size-adjust: 1.05;
+}

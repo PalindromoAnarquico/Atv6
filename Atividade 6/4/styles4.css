@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;;
+}
+img {
+    position: absolute;
+    bottom: calc(50% - 150px);
+    left: calc(50% - 150px);
+    display: flex;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid;
+    margin: 20px auto;
+}
